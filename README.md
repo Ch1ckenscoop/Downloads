@@ -7,8 +7,11 @@
 ##### For PC addons:
  - C:\Program Files(x86)\Steam\steamapps\common\Alien Swarm\swarm\addons
 
-###### sound.vpk
+###### sound.vpk  for Alien Swarm
  - provide the missing queen sound effects
+ 
+###### sounds.vpk  for Reactivedrop
+ - provide the missing queen and hl2 aliens sound effects
 
 ###### cc_trollface.vpk 
  - change the smile face icon
